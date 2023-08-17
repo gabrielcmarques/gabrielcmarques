@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente aprendendo **Typescript**
 
-- 👨‍💻 Meu website pessoal com meus projetos [https://gabrielcmarques.github.io/](https://gabrielcmarques.github.io/)
+- 👨‍💻 Website pessoal com meus projetos [https://gabrielcmarques.github.io/](https://gabrielcmarques.github.io/)
 
 - 📫 Entre em contato **gabrielchristomarques@gmail.com**
 
