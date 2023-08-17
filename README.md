@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)(https://gabrielcmarques.github.io/)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)(https://gabrielcmarques.github.io/)
 <h1 align="center">Olá 👋, eu sou Gabriel de Christo Marques</h1>
 <h3 align="center">Um desenvolvedor de software A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e476zv699b9mfvn8d42vvntk6nwab3fxtvyck13e82k&ep=v1_gifs_search&rid=giphy.gif">
