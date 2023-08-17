@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://gabrielcmarques.github.io/)
 
-<h1 align="center">Olá 👋, eu sou Gabriel de Christo Marques</h1>
-<h3 align="center">Desenvolvedor de Software em Pinhais, Paraná.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=10000&center=true&width=880&height=73&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Gabriel+de+Christo+Marques)](https://git.io/typing-svg)
+<h3 align="left">Desenvolvedor de Software em Pinhais, Paraná.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 
   <br><br><br>
