@@ -4,7 +4,7 @@
 <h3 align="left">Desenvolvedor de Software em Pinhais, Paraná.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 
-  <br><br><br><br>
+  <br><br><br>
 
 - 🌱 Atualmente aprendendo <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="20" height="20"/>**Svelte Kit**</a>
 
