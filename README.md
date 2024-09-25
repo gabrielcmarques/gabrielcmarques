@@ -6,8 +6,6 @@
 
 <br><br><br>
 
-- 🌱 Atualmente aprendendo <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="20" height="20"/>**Svelte Kit**</a>
-
 - 👨‍💻 Website pessoal com meus projetos [https://gabrielcm.dev/](https://gabrielcm.dev/)
 
 - 📫 Entre em contato **gabrielchristomarques@gmail.com**
